@@ -9,7 +9,7 @@ from thread import start_new_thread
 # For instance, we set ADDRESS to ('pineapple', 8001) here because the hostname of our tutor's Pi
 # is 'pineapple' and the port we decided (arbitrarily) to use is 8001.  Another person might prefer
 # a different hostname, for a different server computer.  They could simply change this.
-ADDRESS = ('pineapple', 8001)
+ADDRESS = ('0.0.0.0', 8001)
 # Note that one convention is to CAPITALIZE words that denote "constants" - this value is "constant"
 # becuase it is set here, at the top of the file, once, and never changes throughout the program.
 
