@@ -1,3 +1,11 @@
+# This is the first line of this file.  Notice that it starts with a '#' character.  That character
+# is called a "hash" or "pound" character, and indicates that this line (and the one above, and...
+# this one below) is a "comment".  That means it's just plain, conversational text that you are
+# enjoying right now.  This is not text that the computer can understand - this is not "code".
+# a few lines down, you'll see "import socket" -- THAT line is actually computer code.  Any line
+# that does not begin with a hash is a "real" line of code.  Well... almost.  That's "close enough"
+# for now!  On we go....
+
 # Import the libraries we'll need:
 import socket  
 import select
